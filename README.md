@@ -1,7 +1,7 @@
 <H3>NAME : ADHITHYA PERUMAL D</H3>
 <H3>REGISTER NO : 212222230007</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE: 09-11-2024 </H3>
+<H3>DATE: 16-08-2024 </H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
